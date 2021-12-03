@@ -1,0 +1,233 @@
+country,country_cd,national_cd
+United Kingdom,9,GB
+Ireland,32,IE
+India,35,IN
+New Zealand,30,NZ
+United States,1,US
+British Virgin Islands,224,VG
+U.S. Virgin Islands,179,VI
+Andorra,97,AD
+United Arab Emirates,66,AE
+Afghanistan,160,AF
+Antigua and Barbuda,221,AG
+Anguilla,217,AI
+Albania,93,AL
+Armenia,102,AM
+Angola,127,AO
+Argentina,37,AR
+American Samoa,207,AS
+Austria,36,AT
+Australia,29,AU
+Aruba,177,AW
+Azerbaijan,85,AZ
+Bosnia and Herzegovina,86,BA
+Barbados,112,BB
+Bangladesh,233,BD
+Belgium,31,BE
+Burkina Faso,165,BF
+Bulgaria,73,BG
+Bahrain,133,BH
+Burundi,166,BI
+Benin,148,BJ
+Saint Barthélemy,232,BL
+Bermuda,113,BM
+Brunei,79,BN
+Bolivia,53,BO
+Brazil,33,BR
+Bahamas,110,BS
+Bhutan,198,BT
+Botswana,144,BW
+Belarus,83,BY
+Belize,193,BZ
+Canada,27,CA
+Congo DR,84,CD
+Central African Republic,167,CF
+Republic of the Congo,151,CG
+Switzerland,10,CH
+Ivory Coast,125,CI
+Cook Islands,208,CK
+Chile,43,CL
+Cameroon,134,CM
+China,41,CN
+Colombia,46,CO
+Costa Rica,58,CR
+Cuba,51,CU
+Cape Verde,157,CV
+Curaçao,189,CW
+Cyprus,94,CY
+Czech Republic,3,CZ
+Germany,8,DE
+Djibouti,153,DJ
+Denmark,2,DK
+Dominica,229,DM
+Dominican Republic,52,DO
+Algeria,123,DZ
+Ecuador,49,EC
+Estonia,72,EE
+Egypt,80,EG
+Eritrea,168,ER
+Spain,16,ES
+Ethiopia,81,ET
+Finland,24,FI
+Fiji,180,FJ
+Falkland Islands,219,FK
+Micronesia,211,FM
+Faroe Islands,175,FO
+France,5,FR
+Gabon,150,GA
+Grenada,182,GD
+Georgia,87,GE
+French Guiana,235,GF
+Guernsey,191,GG
+Ghana,118,GH
+Gibraltar,119,GI
+Greenland,138,GL
+Gambia,149,GM
+Guinea,169,GN
+Guadeloupe,236,GP
+Equatorial Guinea,61,GQ
+Greece,11,GR
+Guatemala,50,GT
+Guam,188,GU
+Guinea-Bissau,173,GW
+Guyana,227,GY
+Hong Kong,42,HK
+Honduras,54,HN
+Croatia,28,HR
+Haiti,103,HT
+Hungary,12,HU
+Indonesia,65,ID
+Israel,34,IL
+Isle of Man,234,IM
+Iraq,109,IQ
+Iran,75,IR
+Iceland,88,IS
+Italy,13,IT
+Jersey,192,JE
+Jamaica,117,JM
+Jordan,44,JO
+Japan,26,JP
+Kenya,105,KE
+Kyrgyzstan,136,KG
+Cambodia,140,KH
+Kiribati,194,KI
+Comoros,172,KM
+Saint Kitts and Nevis,226,KN
+North Korea,183,KP
+South Korea,70,KR
+Kuwait,108,KW
+Cayman Islands,111,KY
+Kazakhstan,82,KZ
+Laos,200,LA
+Lebanon,121,LB
+Saint Lucia,218,LC
+Liechtenstein,96,LI
+Sri Lanka,116,LK
+Liberia,129,LR
+Lesotho,163,LS
+Lithuania,90,LT
+Luxembourg,17,LU
+Latvia,89,LV
+Libya,124,LY
+Morocco,106,MA
+Monaco,99,MC
+Moldova,91,MD
+Montenegro,101,ME
+Saint Martin,231,MF
+Madagascar,156,MG
+Marshall Islands,213,MH
+North Macedonia,92,MK
+Mali,152,ML
+Myanmar,190,MM
+Mongolia,185,MN
+Macau,186,MO
+Northern Mariana Islands,225,MP
+Martinique,181,MQ
+Mauritania,210,MR
+Montserrat,220,MS
+Malta,95,MT
+Mauritius,143,MU
+Maldives,201,MV
+Malawi,162,MW
+Mexico,40,MX
+Malaysia,69,MY
+Mozambique,126,MZ
+Namibia,130,NA
+New Caledonia,204,NC
+Niger,158,NE
+Nigeria,77,NG
+Nicaragua,57,NI
+The Netherlands,25,NL
+Norway,18,NO
+Nepal,187,NP
+Nauru,215,NR
+Oman,135,OM
+Panama,60,PA
+Peru,47,PE
+French Polynesia,205,PF
+Papua New Guinea,202,PG
+Philippines,67,PH
+Pakistan,64,PK
+Poland,14,PL
+Saint Pierre and Miquelon,228,PM
+Puerto Rico,114,PR
+Portugal,15,PT
+Palau,212,PW
+Paraguay,56,PY
+Qatar,107,QA
+La Reunion,176,RE
+Romania,19,RO
+Serbia,38,RS
+Russia,20,RU
+Rwanda,128,RW
+Saudi Arabia,74,SA
+Solomon Islands,209,SB
+Seychelles,154,SC
+Sudan,145,SD
+Sweden,21,SE
+Singapore,63,SG
+Saint Helena,170,SH
+Slovenia,45,SI
+Slovakia,39,SK
+Sierra Leone,164,SL
+San Marino,98,SM
+Senegal,147,SN
+Somalia,137,SO
+Suriname,178,SR
+South Sudan,146,SS
+Sao Tome and Principe,174,ST
+El Salvador,55,SV
+Sint Maarten,230,SX
+Syria,132,SY
+Swaziland,155,SZ
+Turks and Caicos Islands,223,TC
+Chad,161,TD
+Togo,159,TG
+Thailand,68,TH
+Tajikistan,197,TJ
+Timor-Leste,199,TL
+Turkmenistan,196,TM
+Tunisia,122,TN
+Tonga,195,TO
+Turkey,4,TR
+Trinidad and Tobago,104,TT
+Tuvalu,214,TV
+Taiwan,71,TW
+Tanzania,115,TZ
+Ukraine,76,UA
+Uganda,139,UG
+Uruguay,59,UY
+Uzbekistan,184,UZ
+Vatican City,100,VA
+Saint Vincent and the Grenadines,222,VC
+Venezuela,48,VE
+Vietnam,78,VN
+Vanuatu,203,VU
+Wallis and Futuna,216,WF
+Samoa,206,WS
+Kosovo,120,XK
+Yemen,131,YE
+Mayotte,171,YT
+South Africa,62,ZA
+Zambia,142,ZM
+Zimbabwe,141,ZW
